@@ -22,7 +22,7 @@
 </a>
 
 ![Profile Visitor](https://visitor-badge.glitch.me/badge?page_id=Keshav04042001.visitor-badge)
-![ISSUE](https://visitor-badge.glitch.me/badge?page_id=Keshav04042001.visitor-badge.issue.1)
+![ISSUE](https://issue-badge.glitch.me/badge?page_id=Keshav04042001.issue-badge.issue.1)
 
 <br />
 
