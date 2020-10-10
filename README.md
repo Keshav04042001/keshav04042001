@@ -21,10 +21,11 @@
   <img align="left" alt="Keshav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-<br>
+
+</br>
+
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/keshav/count.svg" />
-</br>
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
