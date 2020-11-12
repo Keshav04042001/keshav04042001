@@ -26,7 +26,6 @@
 
  ### Profile Views :<br>
   <!-- <img src="https://profile-counter.glitch.me/keshav/count.svg" /> -->
-  <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7709735&style=0001&nbdigits=5&type=page&initCount=0" title="Total Website Hits" Alt="Web Hits"   border="0" /></a> 
  
 
