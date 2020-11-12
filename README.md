@@ -25,9 +25,7 @@
 </br>
 
  ### Profile Views :<br>
-  <!-- <img src="https://profile-counter.glitch.me/keshav/count.svg" /> -->
-<img src="https://hitwebcounter.com/counter/counter.php?page=7709735&style=0001&nbdigits=5&type=page&initCount=0" title="Total Website Hits" Alt="Web Hits"   border="0" /></a> 
- 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeshav04042001%2Fhit-counter&count_bg=%2379C83D&title_bg=%23C44949&icon=github.svg&icon_color=%23BDE056&title=Keshav&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
