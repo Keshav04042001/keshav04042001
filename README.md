@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/keshav97722@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="keshav97722@gmail.com">  <a   href="https://www.instagram.com/hey.keshav/"><img src="https://img.shields.io/badge/@hey.keshav-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/keshav-agrawal-2ba75018b/"><img src="https://img.shields.io/badge/Keshav Agrawal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://twitter.com/KeshavA76309037"><img src="https://img.shields.io/badge/@Tweet_keshav-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=#00acee"></a>
 <br />
 
-Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@We-Coders-hackworld](https://github.com/We-Coders-hackworld),learning Machine learning,working on few projects on web.Yes i'll upload them after completing. Beside's programming, I enjoy eating food and traveling.I Love tea
+Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ .learning Machine learning,working on few projects on web.Yes i'll upload them after completing. Beside's programming, I enjoy eating food and traveling.I Love tea
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CI32iQWdJO0qlNXjEI/giphy.gif"/>
   
