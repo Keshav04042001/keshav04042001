@@ -24,7 +24,7 @@
 
  ### Profile Views :<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeshav04042001%2Fhit-counter&count_bg=%2379C83D&title_bg=%23C44949&icon=github.svg&icon_color=%23FFFFFF&title=Keshav&edge_flat=false)](https://hits.seeyoufarm.com)
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+### How to reach me: <strong>(Click the badge to view my profiles)</strong>
 
 <img src="https://img.shields.io/badge/keshav97722@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="keshav97722@gmail.com">  <a   href="https://www.instagram.com/hey.keshav/"><img src="https://img.shields.io/badge/@hey.keshav-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/keshav-agrawal-2ba75018b/"><img src="https://img.shields.io/badge/Keshav Agrawal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://twitter.com/KeshavA76309037"><img src="https://img.shields.io/badge/@Tweet_keshav-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=#00acee"></a>
 <br />
