@@ -2,6 +2,7 @@
 <a href="https://discord.gg/XTW52Kt">
   
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  
 </a>
 <a href="https://twitter.com/KeshavA76309037">
   <img align="left" alt="Keshav Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
