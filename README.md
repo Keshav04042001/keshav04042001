@@ -64,7 +64,7 @@ Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stac
 🌸  Completed 3 tasks today           
 🗓  Completed 31 tasks this week           
 ✅  Completed 321 tasks so far           
-⏳  Longest streak is 10 days
+⏳  Longest streak is 15 days
 <!-- TODO-IST:END -->
 
 
