@@ -60,8 +60,7 @@ Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stac
 
 ### 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START 
-
-will update with it's code later-->
+will update with it's code later,here is just a demo-->
 🏆  5,053 Karma Points           
 🌸  Completed 3 tasks today           
 🗓  Completed 31 tasks this week           
