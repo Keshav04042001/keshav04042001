@@ -4,8 +4,8 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   
 </a>
-<a href="https://twitter.com/KeshavA76309037">
-  <img align="left" alt="Keshav Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: blueviolet;">
+<a href="https://twitter.com/KeshavA76309037" target="_blank">
+  <img align="left" alt="Keshav Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: blueviolet;" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/keshav-agrawal-2ba75018b/">
   <img align="left" alt="Keshav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
