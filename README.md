@@ -1,27 +1,30 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
+    <a href="https://discord.gg/XTW52Kt">
   
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="color:red;">
-  
-</a>
-<a href="https://twitter.com/KeshavA76309037">
-  <img align="left" alt="Keshav Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/keshav-agrawal-2ba75018b/">
-  <img align="left" alt="Keshav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/joinchat/OV-YDBP7GxdLtLnFIzvYRA">
-  <img align="left" alt="Keshav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/hey.keshav/">
-  <img align="left" alt="Keshav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/koder_keshav">
-  <img align="left" alt="Keshav's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/KeshavAgrawal/">
-  <img align="left" alt="Keshav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+        <img align="left" alt="Keshav's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">
+        
+      </a>
+      <a href="https://twitter.com/KeshavA76309037">
+        <img align="left" alt="Keshav Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: aqua;">
+      </a>
+      <a href="https://www.linkedin.com/in/keshav-agrawal-2ba75018b/">
+        <img align="left" alt="Keshav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: blue;">
+      </a>
+      <a href="https://t.me/joinchat/OV-YDBP7GxdLtLnFIzvYRA">
+        <img align="left" alt="Keshav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+      </a>
+      <a href="https://www.instagram.com/hey.keshav/">
+        <img align="left" alt="Keshav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+      </a>
+      <a href="https://www.reddit.com/user/koder_keshav">
+        <img align="left" alt="Keshav's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+      </a>
+      <a href="https://leetcode.com/KeshavAgrawal/">
+        <img align="left" alt="Keshav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+      </a>
+
+
+
 </br>
 
  ### Profile Views :<br>
