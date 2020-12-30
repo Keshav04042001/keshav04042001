@@ -59,16 +59,17 @@ Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stac
 ### 📊 **This Week I Spent My Time On:** 
 <img src="https://github-readme-stats.vercel.app/api?username=keshav04042001&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav04042001&" alt="" />
-  ### 🚧 **My Todoist Stats:**
-  <!-- TODO-IST:START 
-  will update with it's code later,here is just a demo-->
+
+  <!-- ### 🚧 **My Todoist Stats:**
+  TODO-IST:START 
+  will update with it's code later,here is just a demo
   🏆  5,053 Karma Points           
   🌸  Completed 3 tasks today           
   🗓  Completed 31 tasks this week           
   ✅  Completed 321 tasks so far           
   ⏳  Longest streak is 15 days
   <!-- TODO-IST:END -->
-
+-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
