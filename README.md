@@ -60,7 +60,8 @@ Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stac
 
 ### 📊 **This Week I Spent My Time On:** 
 <img src="https://github-readme-stats.vercel.app/api?username=keshav04042001&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav04042001&theme=dark" alt="" />
+###📈My Streak Stats
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav04042001&theme=chartreuse-dark" alt="" />
 
   <!-- ### 🚧 **My Todoist Stats:**
   TODO-IST:START 
@@ -71,18 +72,9 @@ Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stac
   ✅  Completed 321 tasks so far           
   ⏳  Longest streak is 15 days-->
   <!-- TODO-IST:END -->
- 
 
-<details>
+<!--<details>
 <summary>📈 My GitHub Stats</summary>
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=keshav04042001&show_icons=true&theme=gotham" alt="keshav04042001" />
-
-
-
 </details>
-
-
-
-
+-->
