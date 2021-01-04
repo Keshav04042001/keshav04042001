@@ -60,7 +60,7 @@ Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stac
 
 ### 📊 **This Week I Spent My Time On:** 
 <img src="https://github-readme-stats.vercel.app/api?username=keshav04042001&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
-### 📈My Streak Stats
+### 📈 **My Streak Stats:**
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav04042001&theme=chartreuse-dark" alt="" />
 
   <!-- ### 🚧 **My Todoist Stats:**
