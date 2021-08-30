@@ -36,7 +36,7 @@ Hi, I'm [Keshav Agrawal](http://keshavagrawal.me/My-First-Website/), a Full Stac
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CI32iQWdJO0qlNXjEI/giphy.gif"/>
   
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Keshav Agrawal Spotify Playing" width="350" />](https://open.spotify.com/user/s7oegh4347zqlrp9lvihaib1j)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=670pqg7htt5egne1sciszk9fn&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 ### **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on DSA,Web development and Machine learning :wink:;
